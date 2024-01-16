@@ -1,2 +1,4 @@
 import numpy as np
-from mean_var_std import calculate
+from dev_calc.mean_var_std import calculate
+
+

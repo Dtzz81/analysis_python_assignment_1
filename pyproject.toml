@@ -5,7 +5,7 @@ description = ""
 authors = ["Denise T <denise.turkova@madetech.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.9.6"
 numpy = "^1.21.0"
 pytest = "^6.2"
 
