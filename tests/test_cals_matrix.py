@@ -14,5 +14,5 @@ def test_min_max_sum():
     assert expected['max'] == np.max(matrix)
     assert expected['sum'] == np.sum(matrix)
 
-print("It appeared" + letter + "times.")
-#
+
+
